@@ -1,4 +1,3 @@
 <?php
 
-add code
-add code
+$oDate = new DateTime();
