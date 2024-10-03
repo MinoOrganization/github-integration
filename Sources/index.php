@@ -21,3 +21,4 @@ echo 'Pb de retour';
 echo 'Pb de retour';
 echo 'Pb de retour';
 echo 'Pb de retour';
+echo 'Bug C';
