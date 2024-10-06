@@ -23,3 +23,4 @@ echo 'Pb de retour';
 echo 'Pb de retour';
 echo 'Bug C';
 echo 'Bug tartempion';
+echo 'encore un bug ???';
