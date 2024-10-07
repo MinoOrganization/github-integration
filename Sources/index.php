@@ -28,6 +28,7 @@ echo 'Bug tartempion';
 echo 'encore un bug ???';
 echo 'encore un bug ???';
 echo 'Bug Z1';
+echo 'bug A7';
 echo 'Bug Z1';
 echo 'Bug Z2';
 echo 'bug A7';
