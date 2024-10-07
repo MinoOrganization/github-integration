@@ -5,6 +5,7 @@
 echo 'test';
 echo 'test';
 echo 'test';
+echo 'bug A6';
 echo 'test';
 echo 'test';
 echo 'test';
