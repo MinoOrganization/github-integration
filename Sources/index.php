@@ -25,3 +25,4 @@ echo 'Bug C';
 echo 'Bug tartempion';
 echo 'encore un bug ???';
 echo 'encore un bug ???';
+echo 'Bug Z1';
