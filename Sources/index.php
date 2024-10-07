@@ -27,3 +27,4 @@ echo 'encore un bug ???';
 echo 'encore un bug ???';
 echo 'Bug Z1';
 echo 'Bug Z1';
+echo 'Bug Z2';
