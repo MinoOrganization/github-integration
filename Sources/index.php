@@ -7,6 +7,7 @@ echo 'test';
 echo 'test';
 echo 'bug A6';
 echo 'test';
+echo 'bug authentification';
 echo 'test';
 echo 'test';
 echo 'test';
