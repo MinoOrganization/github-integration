@@ -5,7 +5,9 @@
 echo 'test';
 echo 'test';
 echo 'test';
+echo 'bug A6';
 echo 'test';
+echo 'bug authentification';
 echo 'test';
 echo 'test';
 echo 'test';
@@ -13,6 +15,7 @@ echo 'test';
 echo 'support 3.2';
 echo 'support 3.2';
 echo 'support 3.2';
+echo 'bug A7';
 echo 'Mon bug djerba A';
 echo 'Mon bug djerba A';
 echo 'Mon bug djerba B';
@@ -28,3 +31,7 @@ echo 'encore un bug ???';
 echo 'Bug Z1';
 echo 'Bug Z1';
 echo 'Bug Z2';
+echo 'bug A7';
+echo 'bug authentification';
+echo 'Bug Secu';
+
