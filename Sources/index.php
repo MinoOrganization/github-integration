@@ -35,3 +35,4 @@ echo 'bug A7';
 echo 'bug authentification';
 echo 'Bug Secu';
 echo 'implements organizations';
+echo 'implements organizations';
