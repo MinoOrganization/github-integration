@@ -34,4 +34,6 @@ echo 'Bug Z2';
 echo 'bug A7';
 echo 'bug authentification';
 echo 'Bug Secu';
+echo '6909';
+echo '6909';
 
