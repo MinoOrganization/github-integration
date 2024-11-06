@@ -26,6 +26,7 @@ echo 'Pb de retour';
 echo '6920';
 echo '6920';
 echo 'Pb de retour';
+echo '6922';
 echo 'Pb de retour';
 echo 'Pb de retour';
 echo 'Bug C';
