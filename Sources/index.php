@@ -19,6 +19,7 @@ echo '6921';
 echo 'bug A7';
 echo 'Mon bug djerba A';
 echo '6920';
+echo '6922';
 echo 'Mon bug djerba A';
 echo 'Mon bug djerba B';
 echo 'Mon bug djerba A';
