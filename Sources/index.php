@@ -15,6 +15,7 @@ echo 'test';
 echo 'support 3.2';
 echo 'support 3.2';
 echo 'support 3.2';
+echo '6921';
 echo 'bug A7';
 echo 'Mon bug djerba A';
 echo '6920';
